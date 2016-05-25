@@ -1,0 +1,5 @@
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm3v2\hm3v2\bin\Debug\hm3v2.exe.config
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm3v2\hm3v2\bin\Debug\hm3v2.exe
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm3v2\hm3v2\bin\Debug\hm3v2.pdb
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm3v2\hm3v2\obj\Debug\hm3v2.exe
+E:\Юля\Университет\3 курс\6 семестр\C#\Projects\hm3v2\hm3v2\obj\Debug\hm3v2.pdb
